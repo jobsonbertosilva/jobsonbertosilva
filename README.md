@@ -1,142 +1,37 @@
-👨‍💻 Jobson Berto
+# 👋 Olá, eu sou o Jobson Berto
 
-**`Desenvolvedor Fullstack`**
----
- **`Sobre Mim`**
----
-Me chamo Jobson Berto da Silva, tenho 29 anos.Atualmente, estudo Html, Css,Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns pela Udemy além disso, estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica/UniAmérica.
+### Desenvolvedor Front-End Júnior | HTML, CSS, JavaScript
 
-<p align="left">
-    <a href="https://mail.google.com/mail/u/1/?ogbl#inbox?compose=DmwnWrRqhBnvGrMrfVVcvqsVCdXrThWTzhSpNjnjhXHCfWHbCJDDpvQtBjGcDSxRXjqqvbwvswtq">
-    <img 
-    align="left" 
-    alt="Gmail"
-    title="Gmail" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg"
-    />
-    <a href="https://www.linkedin.com/in/jobson-berto-0870b3317/">
-    <img 
-    align="left" 
-    alt="Linkedin"
-    title="Linkedin" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"
-    />
-</p>
-<br/>
-<br/>
+## 🚀 Sobre Mim
 
+Me chamo Jobson Berto da Silva, tenho 29 anos.
+Estudante de Análise e Desenvolvimento de Sistemas pela Descomplica/UniAmérica.
 
+Foco em Front-End com HTML, CSS e JavaScript. Atualmente estudando TypeScript e React para evoluir para Full Stack.
 
----
-### 💻Linguagens e Tecnologias
+## 🛠️ Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Redux"
-    title="Redux" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
-    />
-                
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Express"
-    title="Express" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Sequelize"
-    title="Sequelize" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg"
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="NestJS"
-    title="NestJS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg"
-/>
-<br/>
-<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 Estatísticas
+## 📂 Meus Projetos
 
-<p>
-  
-<img src="https://streak-stats.demolab.com?user=jobsonbertosilva&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3tokyonight&include_all_commits=true&locale=pt-br" height="150" alt="streak graph"  />
-</p>
+### 1. 💱 Conversor de Moedas
+Aplicação web que consome a API ExchangeRate-API para buscar cotações atualizadas em tempo real.
+- **Tecnologias:** HTML, CSS, JavaScript e Fetch API
+- **🔗 Ao vivo:** https://jobsonbertosilva.github.io/conversor-de-moedas/
+- **💻 Código:** https://github.com/jobsonbertosilva/conversor-de-moedas
+
+### 2. ⚖️ Calculadora de IMC
+Aplicação web interativa para cálculo do IMC com classificação completa e feedback visual por cores.
+- **Tecnologias:** HTML, CSS e JavaScript
+- **🔗 Ao vivo:** https://jobsonbertosilva.github.io/calculadora-IMC/
+- **💻 Código:** https://github.com/jobsonbertosilva/calculadora-IMC
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobsonbertosilva/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
