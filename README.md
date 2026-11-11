@@ -33,5 +33,5 @@ Aplicação web interativa para cálculo do IMC com classificação completa e f
 
 ## 📫 Contato
 
-- **LinkedIn:** https://www.linkedin.com/in/jobsonbertosilva/
+- **LinkedIn:**  https://www.linkedin.com/in/jobson-berto/
 - **Email:** jobsonbertosilva@gmail.com
